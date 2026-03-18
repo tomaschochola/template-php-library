@@ -27,7 +27,7 @@ use TomasChochola\Template\Library\Lib;
  */
 #[CoversClass(Lib::class)]
 #[Small]
-class LibTest extends TestCase
+final class LibTest extends TestCase
 {
     #[Test]
     public function testEncode(): void
