@@ -34,6 +34,6 @@ final class LibTest extends TestCase
     {
         $lib = new Lib();
 
-        $this->assertSame($lib::class, $lib());
+        self::assertSame($lib::class, $lib());
     }
 }
