@@ -26,24 +26,24 @@
     "process-timeout": 0,
     "sort-packages": true
   },
-  "description": "tomaschochola/php-template-library",
+  "description": "tomaschochola/template-php-library",
   "funding": [
     {
       "type": "github",
       "url": "https://github.com/sponsors/tomaschochola"
     }
   ],
-  "homepage": "https://github.com/tomaschochola/php-template-library",
+  "homepage": "https://github.com/tomaschochola/template-php-library",
   "keywords": [
     "tomaschochola",
     "TomasChochola",
     "Tomas Chochola",
     "Tomáš Chochola",
-    "php-template-library"
+    "template-php-library"
   ],
   "license": "CC-BY-ND-4.0",
   "minimum-stability": "dev",
-  "name": "tomaschochola/php-template-library",
+  "name": "tomaschochola/template-php-library",
   "prefer-stable": true,
   "readme": "./README.md",
   "repositories": [
@@ -72,10 +72,10 @@
     "tomaschochola/tooling-phpstan": "^1.0@dev"
   },
   "support": {
-    "docs": "https://github.com/tomaschochola/php-template-library",
+    "docs": "https://github.com/tomaschochola/template-php-library",
     "email": "tomaschochola@tomaschochola.cz",
-    "issues": "https://github.com/tomaschochola/php-template-library/issues",
-    "source": "https://github.com/tomaschochola/php-template-library.git"
+    "issues": "https://github.com/tomaschochola/template-php-library/issues",
+    "source": "https://github.com/tomaschochola/template-php-library.git"
   },
   "type": "library"
 }
