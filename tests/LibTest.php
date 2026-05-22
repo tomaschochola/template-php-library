@@ -26,11 +26,11 @@ use TomasChochola\Template\Library\Lib;
  * @no-named-arguments
  */
 #[CoversClass(Lib::class)]
-#[Small]
+#[Small()]
 class LibTest extends TestCase
 {
-    #[Test]
-    public function testEncode(): void
+    #[Test()]
+    public function encode(): void
     {
         $lib = new Lib();
 
