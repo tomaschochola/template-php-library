@@ -30,7 +30,7 @@ use TomasChochola\Template\Library\Lib;
 class LibTest extends TestCase
 {
     #[Test()]
-    public function encode(): void
+    public function invoke(): void
     {
         $lib = new Lib();
 
