@@ -49,10 +49,7 @@
         "TomasChochola",
         "Tomas Chochola",
         "Tomáš Chochola",
-        "library",
-        "php",
-        "template",
-        "tooling"
+        "template-php-library"
     ],
     "license": "CC-BY-ND-4.0",
     "name": "tomaschochola/template-php-library",
