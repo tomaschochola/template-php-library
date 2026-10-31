@@ -51,7 +51,7 @@
         "Tomáš Chochola",
         "template-php-library"
     ],
-    "license": "CC-BY-ND-4.0",
+    "license": "BSD-3-Clause",
     "name": "tomaschochola/template-php-library",
     "prefer-stable": true,
     "repositories": [
